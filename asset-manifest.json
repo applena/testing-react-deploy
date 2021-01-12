@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bab0b925.chunk.css",
-    "main.js": "/static/js/main.03717e40.chunk.js",
-    "main.js.map": "/static/js/main.03717e40.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c750f953.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c750f953.js.map",
-    "static/js/2.1ee1ead5.chunk.js": "/static/js/2.1ee1ead5.chunk.js",
-    "static/js/2.1ee1ead5.chunk.js.map": "/static/js/2.1ee1ead5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.1ee1ead5.chunk.js.LICENSE.txt": "/static/js/2.1ee1ead5.chunk.js.LICENSE.txt"
+    "main.css": "/testing-react-deploy/static/css/main.bab0b925.chunk.css",
+    "main.js": "/testing-react-deploy/static/js/main.03717e40.chunk.js",
+    "main.js.map": "/testing-react-deploy/static/js/main.03717e40.chunk.js.map",
+    "runtime-main.js": "/testing-react-deploy/static/js/runtime-main.fe75432a.js",
+    "runtime-main.js.map": "/testing-react-deploy/static/js/runtime-main.fe75432a.js.map",
+    "static/js/2.1ee1ead5.chunk.js": "/testing-react-deploy/static/js/2.1ee1ead5.chunk.js",
+    "static/js/2.1ee1ead5.chunk.js.map": "/testing-react-deploy/static/js/2.1ee1ead5.chunk.js.map",
+    "index.html": "/testing-react-deploy/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/testing-react-deploy/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.1ee1ead5.chunk.js.LICENSE.txt": "/testing-react-deploy/static/js/2.1ee1ead5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c750f953.js",
+    "static/js/runtime-main.fe75432a.js",
     "static/js/2.1ee1ead5.chunk.js",
     "static/css/main.bab0b925.chunk.css",
     "static/js/main.03717e40.chunk.js"
